@@ -15,3 +15,5 @@ __pycache__/
 
 # Output
 *.log
+SQL_Scripts.docx
+*.docx
